@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Brick body - rounded rectangle -->
+    <path
+        android:fillColor="#D4AD10"
+        android:pathData="M26,26 L82,26 Q84,26 84,28 L84,80 Q84,82 82,82 L26,82 Q24,82 24,80 L24,28 Q24,26 26,26z" />
+
+    <!-- Brick top surface -->
+    <path
+        android:fillColor="#FFDD40"
+        android:pathData="M26,24 L82,24 Q84,24 84,26 L84,78 Q84,80 82,80 L26,80 Q24,80 24,78 L24,26 Q24,24 26,24z" />
+
+    <!-- Stud top-left: outer ring -->
+    <path
+        android:fillColor="#D4AD10"
+        android:pathData="M44,42 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0" />
+    <!-- Stud top-left: top surface -->
+    <path
+        android:fillColor="#FFE766"
+        android:pathData="M44,41 m-8.5,0 a8.5,8.5 0,1 1,17 0 a8.5,8.5 0,1 1,-17 0" />
+    <!-- Stud top-left: highlight -->
+    <path
+        android:fillColor="#FFF099"
+        android:pathData="M41,38 m-4,0 a4,3.5 0,1 1,8 0 a4,3.5 0,1 1,-8 0" />
+
+    <!-- Stud top-right: outer ring -->
+    <path
+        android:fillColor="#D4AD10"
+        android:pathData="M64,42 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0" />
+    <!-- Stud top-right: top surface -->
+    <path
+        android:fillColor="#FFE766"
+        android:pathData="M64,41 m-8.5,0 a8.5,8.5 0,1 1,17 0 a8.5,8.5 0,1 1,-17 0" />
+    <!-- Stud top-right: highlight -->
+    <path
+        android:fillColor="#FFF099"
+        android:pathData="M61,38 m-4,0 a4,3.5 0,1 1,8 0 a4,3.5 0,1 1,-8 0" />
+
+    <!-- Stud bottom-left: outer ring -->
+    <path
+        android:fillColor="#D4AD10"
+        android:pathData="M44,62 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0" />
+    <!-- Stud bottom-left: top surface -->
+    <path
+        android:fillColor="#FFE766"
+        android:pathData="M44,61 m-8.5,0 a8.5,8.5 0,1 1,17 0 a8.5,8.5 0,1 1,-17 0" />
+    <!-- Stud bottom-left: highlight -->
+    <path
+        android:fillColor="#FFF099"
+        android:pathData="M41,58 m-4,0 a4,3.5 0,1 1,8 0 a4,3.5 0,1 1,-8 0" />
+
+    <!-- Stud bottom-right: outer ring -->
+    <path
+        android:fillColor="#D4AD10"
+        android:pathData="M64,62 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0" />
+    <!-- Stud bottom-right: top surface -->
+    <path
+        android:fillColor="#FFE766"
+        android:pathData="M64,61 m-8.5,0 a8.5,8.5 0,1 1,17 0 a8.5,8.5 0,1 1,-17 0" />
+    <!-- Stud bottom-right: highlight -->
+    <path
+        android:fillColor="#FFF099"
+        android:pathData="M61,58 m-4,0 a4,3.5 0,1 1,8 0 a4,3.5 0,1 1,-8 0" />
+
+</vector>

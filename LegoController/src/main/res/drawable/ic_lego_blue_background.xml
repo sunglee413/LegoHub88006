@@ -4,7 +4,8 @@
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
+    <!-- LEGO Blue background -->
     <path
-        android:fillColor="#FFFFFF"
+        android:fillColor="#0055BF"
         android:pathData="M0,0h108v108h-108z" />
 </vector>
