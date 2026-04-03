@@ -13,4 +13,8 @@ https://www.lego.com/en-us/product/move-hub-88006
 <img width="433" height="421" alt="Screenshot 2026-04-03 at 5 09 17 PM" src="https://github.com/user-attachments/assets/b73ee224-31c1-4f1e-b50d-2ed5d698e811" />
 <img width="420" height="771" alt="Screenshot 2026-04-03 at 5 08 51 PM" src="https://github.com/user-attachments/assets/9b3953f0-f971-48a7-a2cd-b99ca53ee403" />
 
+## launcher icon
+Claude has generated the icon using https://www.lego.com/cdn/cs/set/assets/blt92c80b755be3aa5b/88006.png?format=webply&fit=bounds&quality=60&width=1200&height=1200&dpr=2
+
+<img width="430" height="414" alt="Screenshot 2026-04-03 at 5 32 49 PM" src="https://github.com/user-attachments/assets/a0ef3edb-6858-460a-9435-7eb0ee364ae6" />
 
